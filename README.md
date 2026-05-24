@@ -1,6 +1,6 @@
 # goit-pycore-hw-05
 
-## Завдання
+## Tasks
 - caching_fibonacci
 - generator_numbers
 - log analyzer
